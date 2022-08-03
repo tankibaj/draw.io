@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T15:00:58.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="vS9fQ-6ivToxrISS3dU9" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T15:03:00.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="-2bnYl8AwEFSvGHmiVs2" version="20.2.2" type="github">
   <diagram id="COXc9VKlkOYncHNrJUy5" name="Page-1">
     <mxGraphModel dx="2699" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="3tKYfOBs04xEkgBUD2MP-68" value="&lt;h1&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 32px; font-weight: normal;&quot;&gt;Data Collection&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;glass=0;comic=0;sketch=0;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="-220" y="860" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3tKYfOBs04xEkgBUD2MP-69" value="Data Aggregation&lt;br&gt;Processing&lt;br&gt;Indexing&lt;br&gt;Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="3tKYfOBs04xEkgBUD2MP-69" value="Data Aggregation&lt;br&gt;Processing&lt;br&gt;Indexing&lt;br&gt;Storing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="530" y="850" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3tKYfOBs04xEkgBUD2MP-70" value="Analysis &amp;amp;&amp;nbsp;Visualization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" vertex="1" parent="1">
