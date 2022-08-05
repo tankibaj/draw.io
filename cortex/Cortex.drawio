@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T10:24:31.736Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="raQJv1am6t88Q4SDCuPs" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T10:27:01.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="d5KHlLyso8m56aiptx8T" version="20.2.3" type="github">
   <diagram id="COXc9VKlkOYncHNrJUy5" name="Page-1">
     <mxGraphModel dx="3141" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="3tKYfOBs04xEkgBUD2MP-68" value="&lt;h1&gt;&lt;font color=&quot;#333333&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 32px; font-weight: normal;&quot;&gt;Metrics Collection&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=1;glass=0;comic=0;sketch=0;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="-235" y="860" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3tKYfOBs04xEkgBUD2MP-69" value="&lt;font color=&quot;#333333&quot;&gt;Metrics&amp;nbsp;Processing&lt;br&gt;Indexing&lt;br&gt;Alerting&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;Storage&lt;/span&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" parent="1" vertex="1">
+        <mxCell id="3tKYfOBs04xEkgBUD2MP-69" value="&lt;font color=&quot;#333333&quot;&gt;Metrics&amp;nbsp;Processing&lt;br&gt;Indexing&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;Storage&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);&quot;&gt;Alerting&lt;/span&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="525" y="850" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3tKYfOBs04xEkgBUD2MP-70" value="&lt;font color=&quot;#333333&quot;&gt;Analysis &amp;amp;&amp;nbsp;Visualization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Tahoma;" parent="1" vertex="1">
