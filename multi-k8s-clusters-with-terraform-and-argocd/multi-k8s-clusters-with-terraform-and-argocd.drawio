@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T15:44:55.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ioxLmE88BXIkKOhD9cMF" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T15:47:33.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="TMsjvecvp9bfQp36Z_IG" version="20.2.3" type="github">
   <diagram id="CSUjXxcrEqgTYP2Umb-6" name="Page-1">
     <mxGraphModel dx="2433" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="8Lc94HQIJ857tcbIEGQh-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;fontSize=14;" edge="1" parent="8Lc94HQIJ857tcbIEGQh-14" source="8Lc94HQIJ857tcbIEGQh-16" target="8Lc94HQIJ857tcbIEGQh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Lc94HQIJ857tcbIEGQh-16" value="deployer" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;" vertex="1" parent="8Lc94HQIJ857tcbIEGQh-14">
+        <mxCell id="8Lc94HQIJ857tcbIEGQh-16" value="management" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;" vertex="1" parent="8Lc94HQIJ857tcbIEGQh-14">
           <mxGeometry x="132" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Lc94HQIJ857tcbIEGQh-17" value="development" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;" vertex="1" parent="8Lc94HQIJ857tcbIEGQh-14">
@@ -57,7 +57,7 @@
         <mxCell id="8Lc94HQIJ857tcbIEGQh-26" value="eks cluster" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;" vertex="1" parent="8Lc94HQIJ857tcbIEGQh-14">
           <mxGeometry x="290" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8Lc94HQIJ857tcbIEGQh-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;fontSize=14;" edge="1" target="8Lc94HQIJ857tcbIEGQh-32" parent="8Lc94HQIJ857tcbIEGQh-14">
+        <mxCell id="8Lc94HQIJ857tcbIEGQh-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="8Lc94HQIJ857tcbIEGQh-32" source="8Lc94HQIJ857tcbIEGQh-17" parent="8Lc94HQIJ857tcbIEGQh-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="165" as="sourcePoint" />
             <Array as="points">
@@ -97,6 +97,15 @@
               <mxPoint x="-200" y="516" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8Lc94HQIJ857tcbIEGQh-48" value="&lt;span style=&quot;&quot;&gt;management&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="17.42" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Lc94HQIJ857tcbIEGQh-51" value="development" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="17.42" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Lc94HQIJ857tcbIEGQh-52" value="production" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="27.42" y="570" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
