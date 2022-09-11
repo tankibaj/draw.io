@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T22:12:20.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="JtBIT_IJqBrnsQz19yWn" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-11T22:15:07.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="XY9sf74u6Dd8NQO9UqV-" version="20.3.0" type="github">
   <diagram id="bfBy4HEiA1CUwP8hO2hQ" name="Page-1">
-    <mxGraphModel dx="1826" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,8 +70,8 @@
         <mxCell id="DYcXmR_SrPZ5L4h-EkHf-51" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;172.16.1.0/24 - VLAN 1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="DYcXmR_SrPZ5L4h-EkHf-50" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DYcXmR_SrPZ5L4h-EkHf-52" value="&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;172.16.100.0/24 - VLAN10&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="DYcXmR_SrPZ5L4h-EkHf-50" vertex="1">
-          <mxGeometry x="10" y="60" width="210" height="30" as="geometry" />
+        <mxCell id="DYcXmR_SrPZ5L4h-EkHf-52" value="&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;172.16.100.0/24 - VLAN 10&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="DYcXmR_SrPZ5L4h-EkHf-50" vertex="1">
+          <mxGeometry x="10" y="60" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYcXmR_SrPZ5L4h-EkHf-53" value="VLAN 1" style="swimlane;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=2;fontSize=15;fillColor=default;gradientColor=none;strokeColor=#CCCCCC;whiteSpace=wrap;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="125" width="110" height="80" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vbCT_L9ENrboOtU9xkfc-3" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;Tag: IGB1&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#808080;" parent="vbCT_L9ENrboOtU9xkfc-2" vertex="1">
-          <mxGeometry y="35" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="35" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vbCT_L9ENrboOtU9xkfc-4" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&lt;font color=&quot;#666666&quot;&gt;UnTag: IGB7 - IGB8&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#808080;" parent="vbCT_L9ENrboOtU9xkfc-2" vertex="1">
           <mxGeometry y="65" width="170" height="30" as="geometry" />
